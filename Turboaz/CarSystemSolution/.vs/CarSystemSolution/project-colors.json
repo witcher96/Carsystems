@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "20f0f575-f818-4a53-bd04-db078208bcfd": {
+      "ProjectGuid": "20f0f575-f818-4a53-bd04-db078208bcfd",
+      "DisplayName": "CarSystem",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

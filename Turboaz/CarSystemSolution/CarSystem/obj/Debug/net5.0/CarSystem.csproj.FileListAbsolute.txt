@@ -1,0 +1,16 @@
+C:\Users\predator\Desktop\Turboaz\CarSystemSolution\CarSystem\bin\Debug\net5.0\CarSystem.exe
+C:\Users\predator\Desktop\Turboaz\CarSystemSolution\CarSystem\bin\Debug\net5.0\CarSystem.deps.json
+C:\Users\predator\Desktop\Turboaz\CarSystemSolution\CarSystem\bin\Debug\net5.0\CarSystem.runtimeconfig.json
+C:\Users\predator\Desktop\Turboaz\CarSystemSolution\CarSystem\bin\Debug\net5.0\CarSystem.runtimeconfig.dev.json
+C:\Users\predator\Desktop\Turboaz\CarSystemSolution\CarSystem\bin\Debug\net5.0\CarSystem.dll
+C:\Users\predator\Desktop\Turboaz\CarSystemSolution\CarSystem\bin\Debug\net5.0\ref\CarSystem.dll
+C:\Users\predator\Desktop\Turboaz\CarSystemSolution\CarSystem\bin\Debug\net5.0\CarSystem.pdb
+C:\Users\predator\Desktop\Turboaz\CarSystemSolution\CarSystem\obj\Debug\net5.0\CarSystem.csproj.AssemblyReference.cache
+C:\Users\predator\Desktop\Turboaz\CarSystemSolution\CarSystem\obj\Debug\net5.0\CarSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predator\Desktop\Turboaz\CarSystemSolution\CarSystem\obj\Debug\net5.0\CarSystem.AssemblyInfoInputs.cache
+C:\Users\predator\Desktop\Turboaz\CarSystemSolution\CarSystem\obj\Debug\net5.0\CarSystem.AssemblyInfo.cs
+C:\Users\predator\Desktop\Turboaz\CarSystemSolution\CarSystem\obj\Debug\net5.0\CarSystem.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Turboaz\CarSystemSolution\CarSystem\obj\Debug\net5.0\CarSystem.dll
+C:\Users\predator\Desktop\Turboaz\CarSystemSolution\CarSystem\obj\Debug\net5.0\ref\CarSystem.dll
+C:\Users\predator\Desktop\Turboaz\CarSystemSolution\CarSystem\obj\Debug\net5.0\CarSystem.pdb
+C:\Users\predator\Desktop\Turboaz\CarSystemSolution\CarSystem\obj\Debug\net5.0\CarSystem.genruntimeconfig.cache
